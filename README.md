@@ -8,6 +8,7 @@
 ## 💡 목차
 
 ### 1강: 파이썬의 기초와 변수
+- 강의: https://github.com/crakcode/Business_Python_Basic/blob/main/L1_Variables.ipynb
 
 ### 2강: 함수
 
